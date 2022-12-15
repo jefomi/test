@@ -1,1 +1,1 @@
-function myDate(){ return Date();}
+function myDate(){ return "Hello world";};
